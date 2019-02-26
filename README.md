@@ -1,5 +1,7 @@
 # DLA_python
 Diffusion Limited Aggregation for point attractor
+
+
 A breif explanation about DLA can be found here : http://paulbourke.net/fractals/dla/
 The attached file DLAgif.py generates gif which simulates DLA for the given input image
 dimensions, number of iterations and stickiness.
